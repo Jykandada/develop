@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <servers>
     <server>
-      <username>jykandad</username>
-      <password>Visa!123</password>
+      <username>XXXXX</username>
+      <password>XXXX</password>
       <id>central</id>
     </server>
     <server>
-      <username>jykandad</username>
-      <password>Visa!123</password>
+      <username>XXXX</username>
+      <password>XXX</password>
       <id>snapshots</id>
     </server>
   </servers>
